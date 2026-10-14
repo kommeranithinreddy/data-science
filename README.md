@@ -114,3 +114,5 @@ These topics will support the transition from descriptive analysis and EDA to bu
 ## Objective
 
 Apply analytical techniques to real-world datasets, extract meaningful insights, and develop practical Machine Learning capabilities.
+
+<!-- Git practice -->
